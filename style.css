@@ -205,10 +205,10 @@ section{
         content: "Sportowcem";
     }
     34%, 66%{
-        content: "Muzykiem";
+        content: "";
     }
     67%, 100%{
-        content: "Graczem";
+        content: "";
     }
 }
 
