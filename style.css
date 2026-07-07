@@ -202,13 +202,13 @@ section{
 
 @keyframes words {
     0%, 33%{
-        content: "Sportowcem";
+        content: ".";
     }
     34%, 66%{
-        content: "";
+        content: "..";
     }
     67%, 100%{
-        content: "";
+        content: "...";
     }
 }
 
